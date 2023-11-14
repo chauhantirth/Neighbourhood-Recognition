@@ -14,3 +14,30 @@ A simple Machine Learning Project based on K Means Clustering Algorithm to recog
 - Step 3: Model Training
 - Step 4: Plotting the result
 ![App Screenshot](https://imgsaver.com/images/2023/11/08/image12c2a7226b967bee.png)
+
+```geojson
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "properties": {
+        "ID": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+              [-90,35],
+              [-90,30],
+              [-85,30],
+              [-85,35],
+              [-90,35]
+          ]
+        ]
+      }
+    }
+  ]
+}
+```
