@@ -21,17 +21,42 @@ A simple Machine Learning Project based on K Means Clustering Algorithm to recog
   "features": [
     {
       "type": "Feature",
+      "properties": {},
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          8.4120032,
-          52.128163
-        ]
-      },
-      "properties": {
-        "marker-symbol": "bar",
-        "name": "Bardüttingdorf",
-        "address": "32139 Spenge"
+          8.416920705356205,
+          52.12816489590932
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            8.42130722696757,
+            52.13058196748335
+          ],
+          [
+            8.41226875351444,
+            52.128958737872495
+          ],
+          [
+            8.414989247271222,
+            52.12560632536011
+          ],
+          [
+            8.423018224158682,
+            52.128514375529164
+          ],
+          [
+            8.421335613967557,
+            52.1305914380286
+          ]
+        ],
+        "type": "LineString"
       }
     }
   ]
