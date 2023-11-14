@@ -28,12 +28,12 @@ A simple Machine Learning Project based on K Means Clustering Algorithm to recog
       "geometries": [
         {
           "type": "Point",
-          "properties": {"prop0": "Bardüttingdorf"},
+          "properties": {"prop0": "value0"},
           "coordinates": [52.128163, 8.412003]
         },
       ]
     }
   },
-  "arcs": [[[4000, 0], [1999, 9999], [2000, -9999], [2000, 9999]],[[0, 0], [0, 9999], [2000, 0], [0, -9999], [-2000, 0]]]
+  <!-- "arcs": [[[4000, 0], [1999, 9999], [2000, -9999], [2000, 9999]],[[0, 0], [0, 9999], [2000, 0], [0, -9999], [-2000, 0]]] -->
 }
 ```
