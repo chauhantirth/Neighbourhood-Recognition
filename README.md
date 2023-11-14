@@ -24,8 +24,8 @@ A simple Machine Learning Project based on K Means Clustering Algorithm to recog
       "geometry": {
         "type": "Point",
         "coordinates": [
-          52.128163,
-          8.4120032
+          8.4120032,
+          52.128163
         ]
       },
       "properties": {
